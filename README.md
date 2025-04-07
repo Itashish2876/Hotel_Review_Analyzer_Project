@@ -1,5 +1,5 @@
 🌐 Live Demo
-[Click here to view the live app 🚀](https://hotel-reviewss.streamlit.app/)
+[Click here to view the live app 🚀](https://hotel-revieaws.streamlit.app/)
 
 
 Hotel Review Sentiment Analysis Project
